@@ -8,5 +8,3 @@ deploy:
   local_dir: build
   on:
     branch: main
-
-# hjdfkh
